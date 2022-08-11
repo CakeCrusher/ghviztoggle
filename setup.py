@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='ghviztoggle',
     version='1.0.0',
-    description='Quickly change github visibility for your repos',
+    description='Quickly toggle the visibility of your GitHub repositories.',
     url='https://github.com/CakeCrusher/mimicbot/tree/master/mimicbot_cli/mimicbot_chat',
     author='Sebastian Sosa',
     author_email='1sebastian1sosa1@gmail.com',
